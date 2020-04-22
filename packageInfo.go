@@ -1,5 +1,5 @@
 package version
 
 func GetPackageInfo() string {
-	return "this is package v2"
+	return "this is package v3"
 }
